@@ -1,5 +1,17 @@
 # AI大模型应用开发：从小白到高手
 
+[《Python编程：从入门到实践》笔记](https://csmsimona.github.io/myDocs/#/zh-cn/python/Python编程：从入门到实践?id=python编程：从入门到实践)
+
+| 应用名称             | 对应链接                                                     |
+| -------------------- | ------------------------------------------------------------ |
+| 视频脚本一键生成器   | [video-script-generator](https://github.com/csmSimona/ai_application/tree/main/video-script-generator) |
+| 爆款小红书文案生成器 | [xiaohongshu-generator](https://github.com/csmSimona/ai_application/tree/main/xiaohongshu-generator) |
+| 克隆AI聊天助手       | [cloned-chatgpt](https://github.com/csmSimona/ai_application/tree/main/cloned-chatgpt) |
+| 智能PDF问答工具      | [pdf-qa-tool](https://github.com/csmSimona/ai_application/tree/main/pdf-qa-tool) |
+| CSV数据分析智能工具  | [csv-analyzer](https://github.com/csmSimona/ai_application/tree/main/csv-analyzer) |
+
+
+
 
 ## AI理论科普
 
